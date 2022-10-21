@@ -193,4 +193,4 @@ def m_random(n, k, bottom=-10, top=10):
 #
 # m_show(m_multipl(A, m_sum(m_multiplnum(B, num), m_transp(C))))
 
-print(m_determ(m_random(10, 10, 1, 10)))
+print(m_determ(m_random(100, 11, 10, 1)))
